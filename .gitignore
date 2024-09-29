@@ -1,0 +1,8 @@
+reward_machines/__pycache__/
+reward_machines/reward_machines/__pycache__/
+/reward_machines_venv/
+dilemma_results/
+driving_results/
+MoRM_results/
+\plot_test.py
+\reward_machines\reward_machines\export_results.py
